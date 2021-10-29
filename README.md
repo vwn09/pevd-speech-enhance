@@ -15,6 +15,6 @@ Contact Vincent Neo if you have any questions: <vwn09@ic.ac.uk>
 If you use this code in your research, please cite our work [1] and acknowledge [2].
 
 ## References
-[1] V. W. Neo, C. Evers, and P. A. Naylor, "Enhancement of noisy reverberant speech using polynomial matrix eigenvalue decomposition," *IEEE/ACM Trans. Audio, Speech and Lang. Process.*, vol. 28, 2021, doi:10.1109/TASLP.2021.3120630
+[1] V. W. Neo, C. Evers, and P. A. Naylor, "Enhancement of noisy reverberant speech using polynomial matrix eigenvalue decomposition," *IEEE/ACM Trans. Audio, Speech and Lang. Process.*, vol. 28, 2021, doi:10.1109/TASLP.2021.3120630. [Online]: https://ieeexplore.ieee.org/document/9576653
 
 [2] S. Redif, S. Weiss, and J. G. McWhirter, "Sequential matrix diagonalisation algorithms for polynomial EVD of parahermitian matrices," *IEEE Trans. Signal Process.*, vol. 63, no. 1, pp. 81-89, Jan. 2015.
