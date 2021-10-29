@@ -6,7 +6,7 @@ Demo page: https://vwn09.github.io/pevd-enhance/
 Contact Vincent Neo if you have any questions: <vwn09@ic.ac.uk>
 
 ## Instructions
-1. Clone the repository `git clone https://github.com/ImperialCollegeLondon/sap-papers-neo-taslp-2021-enhance.git`
+1. Clone the repository `git clone https://github.com/vwn09/pevd-speech-enhance.git`
 2. Run `example`
 
 ## Code
