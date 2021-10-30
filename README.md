@@ -10,7 +10,7 @@ Contact Vincent Neo if you have any questions: <vwn09@ic.ac.uk>
 2. Run `example`
 
 ## Code
-`example` demonstrates on how `pevd_enhance` can be used. `pevd_enhance` is designed to be a self-contained 'lightweight' function that executes [1]. The minimum input for the function is a matrix of multi-channel audio (N samples, M channels) and the algorithm will generate decorrelated outputs (N' samples, M channels). The enhanced signal is in the first channel.
+`example` demonstrates how `pevd_enhance` can be used. `pevd_enhance` is designed to be a self-contained 'lightweight' function that executes [1]. The minimum input for the function is a matrix of multi-channel audio (N samples, M channels) and the algorithm will generate decorrelated outputs (N' samples, M channels). The enhanced signal is in the first channel.
 
 If you use this code in your research, please cite our work [1] and acknowledge [2].
 
