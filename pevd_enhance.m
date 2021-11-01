@@ -341,7 +341,7 @@ end
 function R = frame_stcov(x,T,W)
     % compute space-time covariance matrix accumulated over all frames
     [N, M] = size(x);
-    R = zeros(M,M,2*T+1);
+    R = zeros(M,M,2*W+1);
     framesize = T+1;
     for ff = 0:floor(N/framesize)-1
         xin = x(ff*framesize+1:(ff+1)*framesize,:);
