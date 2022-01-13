@@ -356,7 +356,7 @@ function Rxx = stcov(xin,W)
     R = zeros(M,M,2*W+1);
     for ii=1:M
         for jj=1:M
-            Rxx(ii,jj,:) = xcorr(xin(:,ii),xin(:,jj),W,'unbiased');
+            Rxx(ii,jj,:) = xcorr(xin(:,ii),xin(:,jj),W);
         end
     end
 end
